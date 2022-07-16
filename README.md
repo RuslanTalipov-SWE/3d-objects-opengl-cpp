@@ -1,2 +1,2 @@
-# 3d-objects-opengl-cpp
+# Computer graphics in OpenGL & C++
  
